@@ -1,5 +1,7 @@
 bash_prompt
 ===========
+( git clone https://github.com/binRick/bash_prompt && cd bash_prompt && sh install.sh )
+
 
 This bash prompt clearly and consisely lays out a whole bunch of useful
 status information to make your bash session an even more joyous experience!
